@@ -1,0 +1,6 @@
+train:  /content/drive/MyDrive/yolo/train-20230220T072858Z-001  
+val:   /content/drive/MyDrive/yolo/test-20230220T071831Z-001
+# Classes
+
+nc: 2 # number of classes
+names: ['bottle','bottle1'] # class names 
